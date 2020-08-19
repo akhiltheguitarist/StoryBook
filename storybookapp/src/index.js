@@ -6,7 +6,7 @@ import styles from './style.css';
 class CustomButton extends Component{
     render(){
         return (
-            <button className={styles.CustomButton}>Hello</button>     
+            <button className={styles.customButton}>Hello</button>     
         );
     }
 }
